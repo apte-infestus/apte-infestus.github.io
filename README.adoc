@@ -1,0 +1,9 @@
+:last-update-label!:
+:no-footer:
+:safe-mode-secure:
+
+= apte-infestus.github.io
+APTE INFESTUS <apte_infestus@protonmail.com>
+
+
+https://apte-infestus.github.io/[Teach Yourself]
